@@ -7,3 +7,5 @@ This project was created as part of the final assignment. It includes examples o
 - `CODE_OF_CONDUCT.md` — Code of conduct
 - `CONTRIBUTING.md` — Contribution guidelines
 - `simple-interest.sh` — Script for calculating simple interest
+- Updated README.md for bug-fix-typo branch.
+
